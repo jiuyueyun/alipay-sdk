@@ -23,7 +23,8 @@ Alipay SDK for PHP让您不用复杂编程即可访支付宝开放平台开放�
 ## 安装
 
 ```php
-composer require ilzx/alipay-sdk
+composer require jiuyueyun/alipay-sdk
+
 ```
 
 ## 快速使用
