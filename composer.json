@@ -1,0 +1,18 @@
+{
+    "name": "jiuyueyun/alipay-sdk",
+    "description": "alipay-sdk",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {},
+        "classmap": [
+            "aop/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "liwentan",
+            "email": "276370989@qq.com"
+        }
+    ],
+    "require": {}
+}
